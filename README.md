@@ -24,11 +24,13 @@
 
 ### Backend
 [![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,ts)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48"/>
+<img src="https://logo.svgcdn.com/l/socket.io.png" width="48" height="48" />
+
 
 ### Databases
 [![Database Skills](https://skillicons.dev/icons?i=mongodb,redis,postgresql,elasticsearch,mysql)](https://skillicons.dev)
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48"/>
+<img src="https://logo.svgcdn.com/logos/neo4j.png" width="48" height="48" alt="Neo4j">
+<!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48"/> -->
 
 ### Message Queues
 [![Messaging Skills](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
