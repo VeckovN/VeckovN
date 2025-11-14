@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi, I'm Novak Veckov 👋
 
-<!--
-**VeckovN/VeckovN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full-stack Web Developer** with 3 years of hands-on project experience, focused on building real-world applications.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📈 **Dedicated learner** — consistently improving my skills over the past 3 years
+- 🚀 Built 3 full-stack personal projects covering backend, frontend, databases, and real-time features  
+- 💼 Working on freelance projects (primarily frontend tasks) 
+- 🔧 Basic DevOps knowledge: Docker, Kubernetes, CI/CD (Jenkins)
+- 🎓 Computer Science student (graduating soon)
+
+## What I Focus On
+ - Writing clean, maintainable code
+ - Building scalable backend systems and real-time features
+ - Building robust APIs and efficient data models
+ - Applying system design principles in real-world projects  
+ - **Always learning** — steady development activity reflects dedication and consistency
+
+## Tech Stack
+
+### Frontend
+[![Frontend Skills](https://skillicons.dev/icons?i=react,js,ts,redux,tailwind,sass,html,css)](https://skillicons.dev)
+
+### Backend
+[![Backend Skills](https://skillicons.dev/icons?i=nodejs,express,ts)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48"/>
+
+### Databases
+[![Database Skills](https://skillicons.dev/icons?i=mongodb,redis,postgresql,elasticsearch,mysql)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original.svg" width="48" height="48"/>
+
+### Message Queues
+[![Messaging Skills](https://skillicons.dev/icons?i=rabbitmq)](https://skillicons.dev)
+
+### Tools & DevOps
+[![Tools](https://skillicons.dev/icons?i=docker,kubernetes,jenkins,git,github,jest,vite)](https://skillicons.dev)
+
+
+## Featured Projects
+
+- 🛒 **[Growvia](https://github.com/VeckovN/GrowVia)** — Farmers Marketplace eCommerce platform (Microservices, Event-driven, Docker, Kubernetes)
+- 💬 **[HomeAssistant](https://github.com/VeckovN/HomeAssistant)** — Real-time job-matching platform (Neo4j, Redis, Socket.IO, React, Node.js)
+- 🍔 **[FreshOrder](https://github.com/VeckovN/FreshOrder)** — Food ordering platform (MERN stack, JWT authentication)
+
+## Find Me Online
+
+- **[Portfolio](https://novakveckov-portfolio.netlify.app/)** *New portfolio coming soon*
+- **[LinkedIn](https://linkedin.com/in/novak-veckov-4299aa1a1)**
+
+> Available for opportunities — full-time roles or freelance projects.
+
+
