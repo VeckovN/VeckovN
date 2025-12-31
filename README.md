@@ -2,6 +2,8 @@
 
 **Full-stack Web Developer** with 3 years of hands-on project experience, focused on building real-world applications.
 
+> 🌐 **[Portfolio](https://veckov-portfolio.vercel.app/)**
+
 ## About Me
 
 - 📈 **Dedicated learner** — consistently improving my skills over the past 3 years
@@ -46,7 +48,7 @@
 
 ## Find Me Online
 
-- **[Portfolio](https://novakveckov-portfolio.netlify.app/)** *New portfolio coming soon*
+- **[Portfolio](https://veckov-portfolio.vercel.app/)**
 - **[LinkedIn](https://linkedin.com/in/novak-veckov-4299aa1a1)**
 
 > Available for opportunities — full-time roles or freelance projects.
