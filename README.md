@@ -8,8 +8,8 @@
 
 - 📈 **Dedicated learner** — consistently improving my skills over the past 3 years
 - 🚀 Built 3 full-stack personal projects covering backend, frontend, databases, and real-time features  
-- 💼 Working on freelance projects (primarily frontend)
 - 🔧 Basic DevOps knowledge: Docker, Kubernetes, CI/CD (Jenkins)
+- 💼 Open to freelance opportunities and collaborative web projects.
 - 🎓 Computer Science student (graduating soon)
 
 ## What I Focus On
